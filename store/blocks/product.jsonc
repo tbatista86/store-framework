@@ -11,8 +11,7 @@
     },
     "children": [
       "flex-layout.col#left",
-      "flex-layout.col#right",
-      "flex-layout.row#qty-sku"
+      "flex-layout.col#right"
     ]    
   },
   "flex-layout.col#left": {
