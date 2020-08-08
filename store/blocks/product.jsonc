@@ -30,8 +30,6 @@
       "product-identifier.product",
       "product-price",
       "buy-button",
-      "sku-selector",
-      "product-quantity",
       "shipping-simulator"
     ]
   },
