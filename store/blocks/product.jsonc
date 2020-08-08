@@ -39,5 +39,15 @@
       "showSavings": true,
       "showListPrice": true
     }
+  },
+  "sku-selector": {
+    "props": {
+      "hideImpossibleCombinations": false
+    }
+  },
+  "product-quantity": {
+    "props": {
+      "warningQuantityThreshold": 9999999
+    }
   }
 }
